@@ -1,6 +1,7 @@
 pyrofork
 tgcrypto
 aiohttp
+requests
 pymongo
 motor
 gunicorn
